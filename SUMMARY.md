@@ -33,5 +33,6 @@
 
 ## FAQ
 
+* [Модерация проекта](faq/moderaciya-proekta.md)
 * [Регистрация физ. лица](faq/registraciya-fiz.-lica.md)
 
