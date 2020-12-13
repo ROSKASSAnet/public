@@ -31,8 +31,8 @@
 * [Список валют](spravochnaya-informaciya/payment-systems.md)
 * [Установка и настройка модуля Wordpress](spravochnaya-informaciya/wp-module-setup.md)
 
-## FAQ
+## 🧐 FAQ
 
-* [Модерация проекта](faq/moderaciya-proekta.md)
 * [Регистрация физ. лица](faq/registraciya-fiz.-lica.md)
+* [Модерация проекта](faq/moderaciya-proekta.md)
 
