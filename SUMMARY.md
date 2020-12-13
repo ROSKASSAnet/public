@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Главная](README.md)
+* [Документация и API](README.md)
 
 ## Начало работы
 
@@ -30,4 +30,8 @@
 
 * [Список валют](spravochnaya-informaciya/payment-systems.md)
 * [Установка и настройка модуля Wordpress](spravochnaya-informaciya/wp-module-setup.md)
+
+## FAQ
+
+* [Регистрация физ. лица](faq/registraciya-fiz.-lica.md)
 
