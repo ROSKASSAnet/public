@@ -35,4 +35,5 @@
 
 * [Регистрация физ. лица](faq/registraciya-fiz.-lica.md)
 * [Модерация проекта](faq/moderaciya-proekta.md)
+* [Тарифы и лимиты](faq/tarify-i-limity.md)
 
