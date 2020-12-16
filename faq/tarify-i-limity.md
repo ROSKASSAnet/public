@@ -83,10 +83,10 @@ description: Тарифы и лимиты и комиссия Roskassa для ф
 | :--- | :--- | :--- |
 | Банковские карты \(РФ\) | От 0 | От 100 или от 200 |
 | Банковские карты \(другие\) | От 0 | От 100 или от 200 |
-| Bitcoin \(BTC\) |  | От 0.00065 |
-| Ethereum \(ETH\) | От 0.00011 | От 0.00065 |
+| Bitcoin \(BTC\) | От 0.0007 | От 0.0007 |
+| Ethereum \(ETH\) | От 0.00011 | От 0.004 |
 | Litecoin \(LTC\) |  | От 0.006 |
-| Bitcoin Cash |  | 0.00300000 |
+| Bitcoin Cash |  | 0.003 |
 
 ## Минимальная сумма для пополнения и выплат.
 
@@ -101,8 +101,8 @@ description: Тарифы и лимиты и комиссия Roskassa для ф
 | Perfect Money USD | 1 |  |
 | Perfect Money EUR | 1 |  |
 | Payeer \(RUB\) |  |  |
-| Bitcoin \(BTC\) | 0.00080000 |  |
-| Ethereum \(ETH\) |  |  |
-| Litecoin \(LTC\) |  | 0.01200000 |
-| Bitcoin Cash |  | 0.00600000 |
+| Bitcoin \(BTC\) | 0.001 | 0.0025 |
+| Ethereum \(ETH\) | 0.008 | 0.008 |
+| Litecoin \(LTC\) | 0.012 | 0.012 |
+| Bitcoin Cash |  | 0.006 |
 
