@@ -35,5 +35,6 @@
 
 ## 🧐 FAQ
 
-* [Модерация проекта](faq/moderaciya-proekta.md)
+* [Модерация проекта](faq/moderaciya-proekta/README.md)
+  * [Массовые выплаты](faq/moderaciya-proekta/massovye-vyplaty.md)
 
