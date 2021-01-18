@@ -4,7 +4,7 @@
 
 API ключ для доступа к REST сервису roskassa.net можно сгенерировать на странице настроек магазина [https://my.roskassa.net/shop-settings/](https://my.roskassa.net/shop-settings/)
 
-![](../.gitbook/assets/image%20%289%29.png)
+![](../../.gitbook/assets/image%20%289%29.png)
 
 Все данные в запросах к сервису ROSKASSA передаются методом POST по протоколу HTTP на адрес https://api.roskassa.net/\*method\*. Параметры сообщения упаковываются в JSON-объект.
 
