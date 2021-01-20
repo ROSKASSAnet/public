@@ -27,7 +27,7 @@ $data = array(
 );
 
 $body = json_encode($data);
-$sign = hash_hmac('sha256', $data, $api_key);
+$sign = hash_hmac('sha256', $body, $api_key);
 
 
 $curl = curl_init();
