@@ -18,6 +18,10 @@ createWithdrawal
 {% endapi-method-headers %}
 
 {% api-method-body-parameters %}
+{% api-method-parameter name="payment\_system" type="integer" required=true %}
+Платежная система
+{% endapi-method-parameter %}
+
 {% api-method-parameter name="shop\_id" type="string" required=true %}
 Public key магазина
 {% endapi-method-parameter %}
