@@ -14,6 +14,7 @@
 * [Создание платежа](payments/sozdanie-platezha/README.md)
   * [Уведомление об оплате](payments/sozdanie-platezha/uvedomlenie-ob-oplate.md)
   * [Создание простой формы в личном кабинете](payments/sozdanie-platezha/sozdanie-prostoi-formy-v-lichnom-kabinete.md)
+  * [Передача информации о заказе](payments/sozdanie-platezha/peredacha-informacii-o-zakaze.md)
 
 ## API
 
