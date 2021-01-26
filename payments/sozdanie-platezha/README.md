@@ -74,7 +74,7 @@ $sign = md5($str . $secret);
 <input type="hidden" name="currency" value="RUB">
 <input type="hidden" name="payment_system" value="11">
 <input type="hidden" name="fields[email]" value="user@site.ru">
-<input type="hidden" name="sign" value="e5183ce62b106d245cc96c431d8aae42">
+<input type="hidden" name="sign" value="e51845e62b106d245cc96c431d8aae42">
 <input type="submit" value="Оплатить">
 </form>
 ```
