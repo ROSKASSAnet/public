@@ -61,3 +61,21 @@ $sign = md5($str . $secret);
 
 ```
 
+Возможен переход сразу в платежную систему, если Вы готовы передать все данные для оплаты во входящем запросе. Для этого отправить данные нужно методом POST на урл https://pay.roskassa.net/form/ обязательно указать параметр payment\_system и передать все обязательные поля для этого способа оплаты. В большинстве случаев это **email**, для дополнительной информации обратитесь в службу поддержки.
+
+Пример:
+
+```php
+<form action="https://pay.roskassa.net/form/" method="post">
+<input type="hidden" name="shop_id" value="D0F98E7D7742609DC508D86BB7500914">
+<input type="hidden" name="amount" value="100">
+<input type="hidden" name="order_id" value="123">
+<input type="hidden" name="lang" value="ru">
+<input type="hidden" name="currency" value="RUB">
+<input type="hidden" name="payment_system" value="11">
+<input type="hidden" name="fields[email]" value="user@site.ru">
+<input type="hidden" name="sign" value="e5183ce62b106d245cc96c431d8aae42">
+<input type="submit" value="Оплатить">
+</form>
+```
+
