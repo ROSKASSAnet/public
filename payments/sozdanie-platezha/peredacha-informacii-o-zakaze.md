@@ -2,7 +2,7 @@
 
 В некоторых случаях на форму оплаты необходимо отправить данные о составе заказа, как то - название товара/услуги, количество и стоимость. Для этого необходимо включить в запрос следующие данные:
 
-```text
+```php
 <input type="hidden" name="receipt[items][0][name]" value="Пример услуги">
 <input type="hidden" name="receipt[items][0][count]" value="1">
 <input type="hidden" name="receipt[items][0][price]" value="2">
