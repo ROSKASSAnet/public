@@ -31,7 +31,7 @@
 
 ## Справочная информация
 
-* [Список валют](spravochnaya-informaciya/payment-systems/README.md)
+* [Коды платежных систем](spravochnaya-informaciya/payment-systems/README.md)
   * [Тарифы и лимиты](spravochnaya-informaciya/payment-systems/tarify-i-limity.md)
 
 ## 🧐 FAQ
