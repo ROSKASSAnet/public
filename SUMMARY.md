@@ -32,10 +32,11 @@
 ## Справочная информация
 
 * [Коды платежных систем](spravochnaya-informaciya/payment-systems/README.md)
-  * [Тарифы и лимиты](spravochnaya-informaciya/payment-systems/tarify-i-limity.md)
+  * [Буквенные коды валют](spravochnaya-informaciya/payment-systems/bukvennye-kody-valyut.md)
 
 ## 🧐 FAQ
 
+* [Тарифы и лимиты](faq/tarify-i-limity.md)
 * [Модерация проекта](faq/moderaciya-proekta/README.md)
   * [Массовые выплаты](faq/moderaciya-proekta/massovye-vyplaty.md)
 
