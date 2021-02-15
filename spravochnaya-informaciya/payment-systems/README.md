@@ -10,13 +10,13 @@ description: Наименования и коды всех платежных с
 | :--- | :--- | :--- |
 | 5 | ЮMoney \(ex Yandex\) | Процессинг - НКО ЮМани |
 | 14 | QIWI | Процессинг - КИВИ Банк \(АО\) |
-| 11 | Perfect Money USD |  |
-| 12 | Perfect Money EUR |  |
-| 13 | Payeer RUB |  |
+| 11 | Perfect Money USD | Процессинг - Perfect Money |
+| 12 | Perfect Money EUR | Процессинг - Perfect Money |
+| 13 | Payeer RUB | Процессинг - Payeer |
 | 15 | Банковские карты | Процессинг - КИВИ Банк \(АО\) |
-| 16 | Bitcoin |  |
-| 17 | Litecoin |  |
-| 18 | Ethereum |  |
+| 16 | Bitcoin | Процессинг - Roskassa |
+| 17 | Litecoin | Процессинг - Roskassa |
+| 18 | Ethereum | Процессинг - Roskassa |
 | 19 | Apple Pay | Процессинг - НКО ЮМани |
 | 20 | QIWI | В персональный кошелёк QIWI |
 | 21 | ЮMoney | В персональный кошелёк ЮMoney |
