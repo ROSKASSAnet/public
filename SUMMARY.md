@@ -32,6 +32,7 @@
 ## Справочная информация
 
 * [Коды платежных систем](spravochnaya-informaciya/payment-systems/README.md)
+  * [Коды моб. телефонов](spravochnaya-informaciya/payment-systems/kody-mob.-telefonov.md)
   * [Буквенные коды валют](spravochnaya-informaciya/payment-systems/bukvennye-kody-valyut.md)
 
 ## 🧐 FAQ
