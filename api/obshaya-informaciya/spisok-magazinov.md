@@ -19,7 +19,7 @@ Shops
 
 {% api-method-body-parameters %}
 {% api-method-parameter name="shop\_id" type="string" required=true %}
-Public key магазина
+Shop ID
 {% endapi-method-parameter %}
 
 {% api-method-parameter name="nonce" type="integer" required=true %}

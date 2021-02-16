@@ -19,6 +19,7 @@
 ## API
 
 * [Общая информация](api/obshaya-informaciya/README.md)
+  * [Создание заказа](api/obshaya-informaciya/sozdanie-zakaza.md)
   * [Список магазинов](api/obshaya-informaciya/spisok-magazinov.md)
   * [Баланс](api/obshaya-informaciya/balance.md)
 * [Проверка заказа](api/check-order/README.md)
