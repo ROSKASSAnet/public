@@ -14,3 +14,9 @@
 
 Подробнее об установке модуля для Wordpress можно прочитать [здесь](wp-module-setup.md) 
 
+### Примеры на PHP
+
+{% file src="../../.gitbook/assets/php-sdk.zip" %}
+
+
+
