@@ -12,7 +12,31 @@
 
 {% file src="../../.gitbook/assets/roskassa \(3\).zip" %}
 
+или
+
+https://ru.wordpress.org/plugins/roskassa-payment-gateway-ecommerce/
+
 Подробнее об установке модуля для Wordpress можно прочитать [здесь](wp-module-setup.md) 
+
+### OpenCart
+
+https://www.opencart.com/index.php?route=marketplace/extension/info&member_token=21dgl4dSPbRjVst4Onai5hzppLB31euP&extension_id=40893
+
+### Joomla
+
+https://extensions.joomla.org/extension/e-commerce/payment-gateway/payment-tool-for-integration-of-roskassa/
+
+### Okay-CRM
+
+https://okay-cms.com/products/rosskassa
+
+### cs-cart
+
+https://marketplace.cs-cart.com/roskassa-priem-platezhey-na-vashem-sayte.html
+
+### ocStore
+
+https://opencartforum.com/files/file/8745-roskassa-onlayn-oplata-dlya-opencart-3-i-2x-ocstore-3-i-2h/
 
 ### Примеры на PHP
 
