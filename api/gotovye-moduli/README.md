@@ -4,7 +4,9 @@
 
 ![](../../.gitbook/assets/top-logo.png)
 
-Модуль приема платежей для интернет-магазинов 1C Bitrix [https://marketplace.1c-bitrix.ru/solutions/smo.roskassa/](https://marketplace.1c-bitrix.ru/solutions/smo.roskassa/)
+Модуль приема платежей для интернет-магазинов 1C Bitrix 
+
+{% embed url="https://marketplace.1c-bitrix.ru/solutions/smo.roskassa/" %}
 
 ### Wordpress
 
@@ -14,7 +16,7 @@
 
 Или здесь: 
 
-[https://ru.wordpress.org/plugins/roskassa-payment-gateway-ecommerce/](https://ru.wordpress.org/plugins/roskassa-payment-gateway-ecommerce/)
+{% embed url="https://ru.wordpress.org/plugins/roskassa-payment-gateway-ecommerce/" %}
 
 Подробнее об установке модуля для Wordpress можно прочитать [здесь](wp-module-setup.md) 
 
@@ -37,6 +39,14 @@
 ### ocStore
 
 [https://opencartforum.com/files/file/8745-roskassa-onlayn-oplata-dlya-opencart-3-i-2x-ocstore-3-i-2h/](https://opencartforum.com/files/file/8745-roskassa-onlayn-oplata-dlya-opencart-3-i-2x-ocstore-3-i-2h/)
+
+### HostCMS
+
+{% embed url="https://www.hostcms.ru/shop/market/modules/store/roskassa/" %}
+
+### IPS Community Suite 4
+
+{% embed url="https://ips4.ru/file/214-roskassa-priem-platezhey-na-vashem-sayte/" %}
 
 ### Примеры на PHP
 
